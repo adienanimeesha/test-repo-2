@@ -1,1 +1,1 @@
-# this is used to test git commands
+# this is used to test git commands and familiarizing ourselves with git:D 
